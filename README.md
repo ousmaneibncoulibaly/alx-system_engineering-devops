@@ -1,1 +1,1 @@
-__This is Shell Basics directory
+This is Alx System engineering devops repository
